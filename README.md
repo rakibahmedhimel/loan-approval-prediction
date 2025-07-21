@@ -34,5 +34,4 @@ This project uses logistic regression to predict loan approval based on applican
 ## 👨‍💻 Author
 Rakib Ahmed Himel - [GitHub](https://github.com/rakibahmedhimel)
 
-![Loan Status Plot](<img width="933" height="540" alt="loan_status_plot" src="https://github.com/user-attachments/assets/3509d073-85f9-4615-b46f-d7ca81cba19c" />
-)
+![Loan Status Plot](loan_status_plot.png)
